@@ -1,4 +1,4 @@
-<h1 text-align ="center"> Projeto_Final_S.E.</h1>
+<h1 align ="center"> Projeto Final de Sistemas Embarcados</h1>
 
 # Medidor de Nível de Água com Arduino na Plataforma Wokwi
 
