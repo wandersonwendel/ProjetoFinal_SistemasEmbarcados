@@ -1,7 +1,6 @@
 <h1 align ="center"> Projeto Final de Sistemas Embarcados</h1>
 
-# Medidor de Nível de Água com Arduino na Plataforma Wokwi
-
+# Introdução
 Este projeto é um medidor de nível de água feito com Arduino, utilizando a plataforma online do Wokwi para simulação e teste. O objetivo do projeto é monitorar e exibir o nível de água em um recipiente por meio de sensores conectados ao Arduino.
 
 ## Funcionalidades
