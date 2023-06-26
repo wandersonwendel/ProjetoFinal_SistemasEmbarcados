@@ -1,7 +1,7 @@
 <h1 align ="center"> Projeto Final de Sistemas Embarcados</h1>
 
 ## Introdução
-O objetivo deste projeto foi desenvolver um medidor de nível de água utilizando o simulador de Arduino, Wokwi, a fim de monitorar e exibir o nível de água em um recipiente por meio de sensores conectados ao Arduino. O projeto foi realizado por dois estudantes, Wanderson Wendel e Samuel Pinheiro, como parte de suas atividades acadêmicas. Este projeto é um medidor de nível de água feito com simulador de Arduino, utilizando a plataforma online do Wokwi para simulação e teste.
+O objetivo deste projeto foi desenvolver um medidor de nível de água utilizando o simulador de Arduino, Wokwi, a fim de monitorar e exibir o nível de água em um recipiente por meio de sensores conectados ao Arduino. O projeto foi realizado por dois estudantes da UFC - Campus de Itapajé, Wanderson Wendel e Samuel Pinheiro, como parte de suas atividades acadêmicas na disciplina de Sistemas Embarcados, ministrada pelo professor Juan Sebastian.
 
 ## Funcionalidades
 
